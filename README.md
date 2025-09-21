@@ -68,7 +68,7 @@ A lightweight, modular UI kit & utility library for React Native (Android, iOS &
 - Theming & localization utilities included 
 - Map & geolocation components: markers, tooltips, heatmaps, etc.
 - Comprehensive helper utilities (deep linking, permissions, image helpers, etc.) 
----
+
 
 ## 🌍 Open Source Contributions
 
@@ -77,7 +77,7 @@ I’ve actively contributed to well-known open source projects that power millio
 - 🌀 **[React Native Paper](https://github.com/jmstechnologiesinc/react-native-paper)** → Bug fixes, documentation improvements & feature enhancements  
 - 🔥 **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** → Utilities, testing coverage, and Node.js integrations  
 - ⚡ **[React Native Mapbox Navigation](https://github.com/jmstechnologiesinc/react-native-mapbox-navigation)** → Performance improvements on core utilities  
----
+
 
 
 ## 📬 Connect with Me  
