@@ -50,15 +50,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,kafka,php,laravel,firebase,python,django,graphql,postgres,mongodb,docker,kubernetes,redis,git,aws,gcp,redux,webpack,wordpress,androidstudio,babel,bootstrap,css,html,figma,mysql,supabase" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joelmsanto&show_icons=true&theme=radical&count_private=true&hide=stars" />
-</p>
-
----
 
 ## 🏅 Achievements
 - Built **90+ reusable React Native components** with Storybook  
