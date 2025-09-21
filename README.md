@@ -7,7 +7,7 @@
 🌍 Former AI Mobile App Developer at **Bank of America, Fidelity, TD Ameritrade**, and Team Lead at **U.S. Bank**  
 📈 Specialized in **Web, Mobile & Backend Development** with a focus on **AI-driven features, cloud, and geolocation systems**  
 
----
+
 
 ## 🏆 Career Highlights
 - **Spotify – Senior Software Engineer, React Native**  
@@ -25,7 +25,7 @@
 - **Grax.com – Full Stack Developer**  
   Scaled SaaS to **100M+ API calls daily**, managing **petabytes of data** with Node.js + React.js → **$20M annual revenue**.  
 
----
+
 
 ## 💡 Why Work With Me
 ✔ Tailored Approach → solutions customized to your project & budget  
@@ -33,7 +33,6 @@
 ✔ High-Quality Development → testing, optimization, security  
 ✔ Proven Track Record → enterprise apps, SaaS, AI, scalable platforms  
 
----
 
 ## 🚀 Featured Projects
 - **U.S. Bank Voice Assistant** → Spanish NLP banking assistant → $7.06B revenue, 20M+ downloads  
@@ -43,7 +42,7 @@
 - **TD Ameritrade** → Cross-platform fintech trading app (iOS, Android, Web)  
 - **Multi-Vendor Marketplace** → Firebase serverless functions for payments, analytics & real-time ops  
 
----
+
 
 ## 🛠️ Tech Stack
 <p>
@@ -61,7 +60,7 @@
 
 ## 📦 My Open Source Library
 
-- 🔥 **[react-native-components](https://github.com/jmstechnologiesinc/react-native-components)**  
+**[React Native Components](https://github.com/jmstechnologiesinc/react-native-components)**  
 A lightweight, modular UI kit & utility library for React Native (Android, iOS & Web). Built to accelerate development with reusable components, theming, localization, map & geolocation support, and real-world performance optimizations.
 
 ### ⚙️ Key Features
@@ -91,6 +90,6 @@ I’ve actively contributed to well-known open source projects that power millio
 
 **🎯 Free 30-Minute Consultation Available**
 
----
+
 
 
