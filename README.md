@@ -11,7 +11,7 @@
 
 ## 🏆 Career Highlights
 - **Jms Technologies Inc – Senior Software Engineer, React Native**  
-Built a large-scale Authors app serving **500M+ ** users and optimized the Design System and GraphQL APIs to enhance performance, accessibility, and cross-platform consistency.
+Built a large-scale Authors app serving **500M+** users and optimized the Design System and GraphQL APIs to enhance performance, accessibility, and cross-platform consistency.
 
 - **U.S. Bank – React Native & Full Stack Team Lead**  
   Led **30+ engineers** redesigning iOS, Android & Web apps → **20M+ downloads**, 5⭐ ratings, #1 in **Keynova Group Q1 2024**.  
